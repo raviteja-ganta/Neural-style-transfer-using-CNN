@@ -11,11 +11,11 @@ buildings and water are painted.
 To do this we just need to extract content from content image, style from style image and combined these two to get our target image. 
 But before that lets understand what exactly content and style of an image are.
 
-##Content of an Image: 
+## Content of an Image: 
 Content can be thought as objects and arrangements in an image. In our current case, content is literally content 
 in the image with out taking in to account texture and color of pixels. So in our above examples content is just houses, water and grass 
 irrespective of colors.
 
-##Style of an Image: 
+## Style of an Image: 
 We can think of style as texture, colors of pixels. At same time it doesn't care about actual arrangement and 
 identity of different objects in that image.
