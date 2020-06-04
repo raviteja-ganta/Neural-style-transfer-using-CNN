@@ -3,6 +3,8 @@ This repo contains all project files for Neural style transfer using CNN's
 
 what is style transfer between images? I will try to explain it with the example below
 
+![result](https://github.com/raviteja-ganta/Neural-style-transfer-using-CNN/blob/master/result.png)
+
 We have content image which is a stretch of buildings across a river. We also have a style image which is a painting.
 Main idea behind style transfer is to transfer the 'style' of style image to the content image so that the target images looks 
 like buildings and river painted in style of artwork(style image). We can clearly see that content is preserved but looks like 
